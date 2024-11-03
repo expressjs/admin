@@ -1,6 +1,6 @@
 # Moderation policy
 
-If you are not a member of the s and wish to submit a
+If you are not a member and wish to submit a
 moderation request, please see [Requesting Moderation][].
 
 -   [Applicability][]
