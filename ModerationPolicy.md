@@ -36,7 +36,7 @@ Any posts, comments, issues, or pull requests that violate the [Code of Conduct]
     address Code of Conduct violations.
 -   _Remove_ refers to the act of removing the configured write (commit)
     permissions for an individual Collaborator's GitHub account from _all_
-    s repositories as well as removing the account from
+    expressjs, jshttp, and pillarjs repositories as well as removing the account from
     the expressjs, jshttp, and pillarjs organizations membership.
 -   _Block_ refers to the act of prohibiting an individual GitHub account from any
     further participation in the expressjs, jshttp, and pillarjs organizations. A block may be
