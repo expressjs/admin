@@ -20,7 +20,7 @@ moderation request, please see [Requesting Moderation][].
 
 ## Applicability
 
-This policy applies to all repositories under these GitHub organizations: expressjs, jshttp, and pillarjs, as well as all working Groups.
+This policy applies to all repositories under these GitHub organizations: expressjs, jshttp, and pillarjs, as well as all Working Groups.
 
 Any posts, comments, issues, or pull requests that violate the [Code of Conduct][] are subject to Moderation as defined in this policy.
 
@@ -37,9 +37,9 @@ Any posts, comments, issues, or pull requests that violate the [Code of Conduct]
 -   _Remove_ refers to the act of removing the configured write (commit)
     permissions for an individual Collaborator's GitHub account from _all_
     s repositories as well as removing the account from
-    the s membership.
+    the expressjs, jshttp, and pillarjs organizations membership.
 -   _Block_ refers to the act of prohibiting an individual GitHub account from any
-    further participation in the s. A block may be
+    further participation in the expressjs, jshttp, and pillarjs organizations. A block may be
     _temporary_ or _indefinite_.
     -   This Moderation Policy applies only to blocking from the organization.
         Individuals may choose to
@@ -123,8 +123,8 @@ a Post from Moderation.
     action, and identifying the Github account being acted upon, must be posted
     to the Moderation Repository with an explanation provided by the Moderation
     Team member performing the action.
--   Any individual Blocked from the s will be recommended
-    for exclusion from any expressjs Foundation sponsored event or activity.
+-   Any individual Blocked from the expressjs, jshttp, and pillarjs organizations will be recommended
+    for exclusion from any OpenJS Foundation sponsored event or activity.
 -   Minor edits to the formatting of a Post or to correct typographical errors
     are not "Moderation". Such edits and their intent must
     still be documented with a short note indicating who made the edit and why.
@@ -221,8 +221,7 @@ Scenario 4:
 ### Temporary Interaction Limits
 
 The Moderation Team may, at their discretion, choose to enable [GitHub's
-Temporary Interaction Limits][] on any GitHub repository in the expressjs, jshttp, pillarjs GitHub
-Organizations.
+Temporary Interaction Limits][] on any GitHub repository in the expressjs, jshttp, and pillarjs GitHub Organizations.
 
 Any Collaborator may request that the Moderation Team enable the Temporary
 Interaction Limits by posting an issue to the moderation repository. If the
