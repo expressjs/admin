@@ -3,6 +3,8 @@
 If you are not a member and wish to submit a
 moderation request, please see [Requesting Moderation][].
 
+## Table of Contents
+
 -   [Applicability][]
 -   [Terms][]
 -   [Grounds for Moderation][]
