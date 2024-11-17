@@ -83,7 +83,7 @@ Note, however, that unfamiliarity with the [Code of Conduct][] does not excuse a
 -   Moderation Team members may Remove or Block an individual from the expressjs GitHub Organizations.
 -   For any Removal or Blocking action, an issue describing the reasons for the action, and identifying the Github account being acted upon, must be posted to the Moderation Repository with an explanation provided by the Moderation Team member performing the action.
 -   Any individual Blocked from the expressjs, jshttp, and pillarjs organizations will be recommended for exclusion from any OpenJS Foundation sponsored event or activity.
--   Minor edits to the formatting of a Post or to correct typographical errors are not "Moderation". Such edits and their intent must still be documented with a short note indicating who made the edit and why.
+-   Minor edits to the formatting of a Post or to correct typographical errors are not "Moderation". Such edits and their intent must still be documented with a short note indicating the reason.
 
 ### Collaborator Posts
 
